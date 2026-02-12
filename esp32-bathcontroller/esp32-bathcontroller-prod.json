@@ -1,9 +1,9 @@
 {
   "device": "esp32-bathcontroller",
   "channel": "prod",
-  "version": "1.0.1",
-  "build": "2026-02-12T18:22:01Z",
-  "file": "esp32-bathcontroller-prod-v1.0.1.bin",
-  "size": 943072,
-  "sha256": "582c5c5c76279a7f9e154b28f43ef384858a0128c2b042b1673334116c18c29b"
+  "version": "1.0.2",
+  "build": "2026-02-12T18:37:31Z",
+  "file": "esp32-bathcontroller-prod-v1.0.2.bin",
+  "size": 1065552,
+  "sha256": "1aef8107933073ab293ef9c0f549db856ac58729b5b1637654a2315af8560ad6"
 }
