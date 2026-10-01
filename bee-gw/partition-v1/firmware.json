@@ -1,0 +1,11 @@
+{
+  "device": "bee-gw",
+  "channel": "prod",
+  "env": "partition-v1",
+  "partitions": "partitions-v1.csv",
+  "version": "1.4.3",
+  "build": "2026-10-01T06:06:50Z",
+  "file": "firmware.bin",
+  "size": 1404064,
+  "sha256": "297777b995114877e29a7da94044c1f937be065b39e6db1481ac6d75cc4e5bde"
+}
