@@ -2,8 +2,8 @@
   "device": "bee-gw",
   "channel": "prod",
   "version": "1.4.2",
-  "build": "2026-08-12T10:33:03Z",
+  "build": "2026-10-01T05:49:48Z",
   "file": "firmware.bin",
-  "size": 1453120,
-  "sha256": "1f59937e4d53ad5380b8140140160a81c1ce7ba0e4415dfc619bf0b57d1a1d7b"
+  "size": 1449008,
+  "sha256": "4bf7e6825d9b0387adcc9b4c135f2a9ff2c86935c19c0d806395a894db13fccb"
 }
